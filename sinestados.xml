@@ -2,7 +2,7 @@
 <channel>
       <!-- The name of the Podcast -->
         <title>Sin Estados</title>
-        <link>https://aurelianonava.github.io/sinenredo</link>
+        <link>https://aurelianonava.github.io/sinestados</link>
         <language>en-us</language>
         <copyright>&#8471; &amp; &#xA9; 2018 Aureliano Nava</copyright>
         <itunes:subtitle>Sufrir Y Su Fin.</itunes:subtitle>
@@ -20,7 +20,7 @@
         </itunes:owner>
         <itunes:image
          href="https://aurelianonava.github.io/sinenredo/images/aureliano.jpg"/>
-         <atom:link href="https://aurelianonava.github.io/sinenredo/sinenredo.xml" rel="self" type="application/rss+xml" />
+         <atom:link href="https://aurelianonava.github.io/sinestados/sinestados.xml" rel="self" type="application/rss+xml" />
         
         <itunes:category text="Religion &amp; Spirituality">
         <itunes:category text="Other" />
@@ -52,8 +52,8 @@
             Budismo, meditation,budismo en espańol,spiritualismo secular,dharma secular
         </itunes:keywords>
 
-        <enclosure length="6000000" type="audio/mpeg" url="https://aurelianonava.github.io/sinenredo/episode-0/intro-podcast.mp3"/>
-        <guid>https://aurelianonava.github.io/sinenredo/episode-0/intro-podcast.mp3</guid>
+        <enclosure length="6000000" type="audio/mpeg" url="https://aurelianonava.github.io/sinestados/episode-0/intro-podcast.mp3"/>
+        <guid>https://aurelianonava.github.io/sinestados/episode-0/intro-podcast.mp3</guid>
         <pubDate>Mon, 10 September 2018 22:00:00 PST</pubDate>
         <itunes:duration>5:26</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
