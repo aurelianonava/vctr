@@ -1,17 +1,17 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
       <!-- The name of the Podcast -->
-        <title>Sin Enredo</title>
+        <title>Sin Estados</title>
         <link>https://aurelianonava.github.io/sinenredo</link>
         <language>en-us</language>
         <copyright>&#8471; &amp; &#xA9; 2018 Aureliano Nava</copyright>
         <itunes:subtitle>Sufrir Y Su Fin.</itunes:subtitle>
         <itunes:author>Aureliano Nava</itunes:author>
         <itunes:summary>
-            Parar de sufir depende en una compresión correcta de nuestra existencia y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo. 
+            La liberacion del sufrimiento depende en una compresión correcta de la condición humana y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo. 
         </itunes:summary>
         <description>
-            Parar de sufir depende en una compresión correcta de nuestra existencia y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo.
+            La liberacion del sufrimiento depende en una compresión correcta de la condición humana y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo.
         </description>
         <itunes:type>episodic</itunes:type>
         <itunes:owner>
@@ -34,16 +34,16 @@
         <item>
 
         <!-- <itunes:episodeType>trailer</itunes:episodeType> -->
-        <itunes:title>Sin Enredo Intro Podcast</itunes:title>
+        <itunes:title>Introduction a Sin Estados Podcast</itunes:title>
         <title>Sufrir Y Su Fin.</title>
         <itunes:author>Aureliano Nava</itunes:author>
         
-        <itunes:subtitle>Introducion al primer Podcast the Sin Enredos.</itunes:subtitle>
+        <itunes:subtitle>Introducion al primer Podcast the Sin Estados.</itunes:subtitle>
         
-        <itunes:summary>Parar de sufir depende en una compresión correcta de nuestra existencia y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo.</itunes:summary>
+        <itunes:summary>La liberacion del sufrimiento depende en una compresión correcta de la condición humana y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo.</itunes:summary>
         
         <description>
-            Parar de sufir depende en una compresión correcta de nuestra existencia y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo.
+            La liberacion del sufrimiento depende en una compresión correcta de la condición humana y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo.
         </description>
 
         <!-- <content:encoded><![CDATA[Parar de sufir depende en una compresión correcta de nuestra existencia y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo, on: <a href="https://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.</content:encoded> -->
