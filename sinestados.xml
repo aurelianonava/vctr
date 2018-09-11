@@ -5,13 +5,13 @@
         <link>https://aurelianonava.github.io/sinestados</link>
         <language>en-us</language>
         <copyright>&#8471; &amp; &#xA9; 2018 Aureliano Nava</copyright>
-        <itunes:subtitle>Sufrir Y Su Fin.</itunes:subtitle>
+        <itunes:subtitle>Sufrir, su fin, y tu vida.</itunes:subtitle>
         <itunes:author>Aureliano Nava</itunes:author>
         <itunes:summary>
-            La liberacion del sufrimiento depende en una compresión correcta de la condición humana y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo. 
+            La liberacion del sufrimiento depende en una compresión correcta de la condición humana y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo. Pero, este solamente es el comienszo, base cero, prque lo cuenta es como vives tu vida.   
         </itunes:summary>
         <description>
-            La liberacion del sufrimiento depende en una compresión correcta de la condición humana y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo.
+            La liberacion del sufrimiento depende en una compresión correcta de la condición humana y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo. Pero, este solamente es el comienszo, base cero, prque lo cuenta es como vives tu vida.
         </description>
         <itunes:type>episodic</itunes:type>
         <itunes:owner>
@@ -35,21 +35,21 @@
 
         <!-- <itunes:episodeType>trailer</itunes:episodeType> -->
         <itunes:title>Introduction a Sin Estados Podcast</itunes:title>
-        <title>Sufrir Y Su Fin.</title>
+        <title>Sufrir, su fin, y tu vida.</title>
         <itunes:author>Aureliano Nava</itunes:author>
         
         <itunes:subtitle>Introducion al primer Podcast the Sin Estados.</itunes:subtitle>
         
-        <itunes:summary>La liberacion del sufrimiento depende en una compresión correcta de la condición humana y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo.</itunes:summary>
+        <itunes:summary>La liberacion del sufrimiento depende en una compresión correcta de la condición humana y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo. Pero, este solamente es el comienszo, base cero, prque lo cuenta es como vives tu vida.</itunes:summary>
         
         <description>
-            La liberacion del sufrimiento depende en una compresión correcta de la condición humana y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo.
+            La liberacion del sufrimiento depende en una compresión correcta de la condición humana y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo. Pero, este solamente es el comienszo, base cero, prque lo cuenta es como vives tu vida.
         </description>
 
         <!-- <content:encoded><![CDATA[Parar de sufir depende en una compresión correcta de nuestra existencia y una disciplina que cultiva habitos mentales de atencion plena que nos enseña a vivir con valentia, amabilidad, y sin miedo, on: <a href="https://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.</content:encoded> -->
 
         <itunes:keywords>
-            Budismo, meditation,budismo en espańol,spiritualismo secular,dharma secular
+            Budismo, meditation,budismo en espańol,spiritualismo secular,dharma secular,salud mental
         </itunes:keywords>
 
         <enclosure length="6000000" type="audio/mpeg" url="https://aurelianonava.github.io/sinestados/episode-0/intro-podcast.mp3"/>
