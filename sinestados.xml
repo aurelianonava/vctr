@@ -22,8 +22,8 @@
          href="https://aurelianonava.github.io/sinenredo/images/aureliano.jpg"/>
          <atom:link href="https://aurelianonava.github.io/sinestados/sinestados.xml" rel="self" type="application/rss+xml" />
         
-        <itunes:category text="Society &amp; Culture">
-        <itunes:category text="" />
+        <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Spirituality" />
         </itunes:category>
         
         <itunes:explicit>No</itunes:explicit>
