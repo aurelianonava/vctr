@@ -3,7 +3,7 @@
       <!-- The name of the Podcast -->
         <title>Sin Estados en Español</title>
         <link>https://aurelianonava.github.io/sinestados</link>
-        <language>en-us</language>
+        <language>es</language>
         <copyright>&#8471; &amp; &#xA9; 2018 Aureliano Nava</copyright>
         <itunes:subtitle>Sufrir, su fin, y tu vida.</itunes:subtitle>
         <itunes:author>Aureliano Nava</itunes:author>
@@ -25,6 +25,7 @@
         <itunes:category text="Religion &amp; Spirituality">
         <itunes:category text="Spirituality" />
         </itunes:category>
+        <itunes:explicit>no</itunes:explicit>
         
 
         <!-- Individual episode content -->
