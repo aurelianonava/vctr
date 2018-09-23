@@ -376,6 +376,40 @@
 
 </item>
 
+
+<!-- Individual episode content -->
+<item>
+    <title>Christian Demons and Buddhist Disappointment.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-10/act-disappointment.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Mon, 24 September 2018 05:00:00 PST</pubDate>
+    <description>
+        Spiritual ambition as a human enterprise.   
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-10/act-disappointment.mp3" length="19000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-10/act-disappointment.mp3
+    </guid>
+    <itunes:duration>28:27</itunes:duration>
+    <itunes:summary>
+        The effort of consciousness to maintain awareness of itself.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        chogyam trungpa,Buddhism,meditation,spiritual ambition,meditation and disappointment,spiritual materialism,three lords of materialism,ego spirituality
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
     
     </channel>
 </rss>
