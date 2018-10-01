@@ -410,6 +410,52 @@
 
 </item>
 
+
+<!-- Individual episode content -->
+<item>
+    <title>Jordan Peterson and Idiot Compassion.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-11/jp-idiot-compassion.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Mon, 1 October 2018 07:00:00 PST</pubDate>
+    <description>
+        Jordan Peteson has a good understanding of idiot compassion but does not understand Buddhist compassion.   
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-11/jp-idiot-compassion.mp3" length="20000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-11/jp-idiot-compassion.mp3
+    </guid>
+    <itunes:duration>28:13</itunes:duration>
+    <itunes:summary>
+        Jordan Peteson has a good understanding of idiot compassion but does not understand Buddhist compassion.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        Buddhism,meditation,Jordan Peterson,Christian Logos,Buddist Compassion,transcendent ethic,new atheists,Sam Harris
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
     
     </channel>
 </rss>
