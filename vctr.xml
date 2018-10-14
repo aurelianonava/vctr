@@ -456,6 +456,51 @@
 
 </item>
 
+<!-- Individual episode content -->
+<item>
+    <title>We've been snobbish, among other sins.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-12/snob.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sun, 14 October 2018 05:00:00 PST</pubDate>
+    <description>
+        We've been snobbish, among other sins.  
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-12/snob.mp3" length="29000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-12/snob.mp3
+    </guid>
+    <itunes:duration>45:25</itunes:duration>
+    <itunes:summary>
+        We've been snobbish, among other sins..
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        We've been snobbish, among other sins.
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
     
     </channel>
 </rss>
