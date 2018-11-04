@@ -501,6 +501,52 @@
 
 </item>
 
+
+<!-- Individual episode content -->
+<item>
+    <title>Suffering.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-13/suffering.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sun, 4 November 2018 03:30:00 PST</pubDate>
+    <description>
+        Removing the splinter of I in suffering.  
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-13/suffering.mp3" length="17000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-13/suffering.mp3
+    </guid>
+    <itunes:duration>25:00</itunes:duration>
+    <itunes:summary>
+        Removing the splinter of I in suffering.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        Removing the splinter of I in suffering.
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
     
     </channel>
 </rss>
