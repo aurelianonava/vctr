@@ -547,6 +547,52 @@
 
 </item>
 
+
+<!-- Individual episode content -->
+<item>
+    <title>Appropriating Chogyam Trungpa.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-14/appropriating-vctr.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sat, 10 Nov 2018 05:30:00 PST</pubDate>
+    <description>
+        Who owns, interprets, and shares the teachings of Chogyam Trungpa?  
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-14/appropriating-vctr.mp3" length="26000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-14/appropriating-vctr.mp3
+    </guid>
+    <itunes:duration>36:22</itunes:duration>
+    <itunes:summary>
+        Who owns, interprets, and shares the teachings of Chogyam Trungpa?
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        Who owns, interprets, and shares the teachings of Chogyam Trungpa?
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
     
     </channel>
 </rss>
