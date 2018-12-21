@@ -593,6 +593,51 @@
 
 </item>
 
+<!-- Individual episode content -->
+<item>
+    <title>Lama Rod Owens on Shambhala Sexual Misconduct.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-15/lama-owens.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sat, 22 Dec 2018 05:30:00 PST</pubDate>
+    <description>
+        Comments on talk given by Lama Rod Owens in the London Shambhala Center.  
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-15/lama-owens.mp3" length="20000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-15/lama-owens.mp3
+    </guid>
+    <itunes:duration>38:00</itunes:duration>
+    <itunes:summary>
+        Comments on talk given by Lama Rod Owens in the London Shambhala Center.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        Comments on talk given by Lama Rod Owens in the London Shambhala Center.
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
     
     </channel>
 </rss>
