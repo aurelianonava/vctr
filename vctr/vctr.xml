@@ -2,7 +2,7 @@
     <channel>
       <!-- The name of the Podcast -->
         <title>All Chogyam Trungpa</title>
-        <link>https://aurelianonava.github.io/</link>
+        <link>https://aurelianonava.github.io/vctr</link>
         <language>en-us</language>
         <copyright>Aureliano Nava 2018</copyright>
         <image>
@@ -18,15 +18,18 @@
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Buddhism" />
         </itunes:category>
-
         <itunes:category text="Society &amp; Culture">
             <itunes:category text="Philosophy" />
         </itunes:category>
 
-        <itunes:category text="Health">
-            <itunes:category text="Self-Help" />
+        <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Christianity" />
         </itunes:category>
 
+        <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Other" />
+        </itunes:category>
+        
         <itunes:keywords>
             science,medicine,religion,spirituality,health,society,culture,Chogyam Trungpa,Chogyam Trungpa Rinpoche,meditation,buddha dharma,mindfulness,buddhism,tibetan,dharama,secular dharma,secular spirituality,secular buddhism
         </itunes:keywords>
@@ -38,10 +41,10 @@
 
         <!-- A Brief Description of your site here -->
         <description>
-            A podcast focused on the teachings, writing, poems, of Chogyam Trungpa Rinpoche, and their relevance to suffering, meditation, secular society, religion, health, psychology, mind, the void, death and living. Oh yeah, and your cat and dog.     
+            A podcast focused on the teachings, writing, poems, of Chogyam Trungpa Rinpoche, and their relevance to suffering, meditation, secular society, religion, health, psychology, mind, the void, death and living.     
         </description>
         <itunes:summary>
-            A podcast focused on the teachings, writing, poems, of Chogyam Trungpa Rinpoche, and their relevance to suffering, meditation, secular society, religion, health, psychology, mind, the void, death and living. Oh yeah, and your cat and dog.     
+            A podcast focused on the teachings, writing, poems, of Chogyam Trungpa Rinpoche, and their relevance to suffering, meditation, secular society, religion, health, psychology, mind, the void, death and living.     
         </itunes:summary>
         
         
@@ -368,6 +371,413 @@
     
     <itunes:keywords>
         chogyam trungpa,Buddhism,meditation,lord of mind,spiritual materialism,three lords of materialism,ego spirituality
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
+
+<!-- Individual episode content -->
+<item>
+    <title>Christian Demons and Buddhist Disappointment.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-10/disappointment.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Mon, 24 September 2018 05:00:00 PST</pubDate>
+    <description>
+        Spiritual ambition as a human enterprise.   
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-10/disappointment.mp3" length="17000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-10/disappointment.mp3
+    </guid>
+    <itunes:duration>24:41</itunes:duration>
+    <itunes:summary>
+        Spiritual ambition as a human enterprise.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        chogyam trungpa,Buddhism,meditation,spiritual ambition,meditation and disappointment,spiritual materialism,three lords of materialism,ego spirituality
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
+
+<!-- Individual episode content -->
+<item>
+    <title>Jordan Peterson gets idiot compassion better than most Buddhists.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-11/jp-idiot-compassion.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Mon, 1 October 2018 07:00:00 PST</pubDate>
+    <description>
+        While not understanding Buddhist compassion, Jordan Peterson understands idiot compassion better than most Buddhists.   
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-11/jp-idiot-compassion.mp3" length="18000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-11/jp-idiot-compassion.mp3
+    </guid>
+    <itunes:duration>26:07</itunes:duration>
+    <itunes:summary>
+        While not understanding Buddhist compassion, Jordan Peterson understands idiot compassion better than most Buddhists.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        Buddhism,meditation,Jordan Peterson,Christian Logos,Buddist Compassion,transcendent ethic,new atheists,Sam Harris,idiot compassdion
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
+<!-- Individual episode content -->
+<item>
+    <title>We've been snobs, among other sins.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-12/snob.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sun, 14 October 2018 05:00:00 PST</pubDate>
+    <description>
+        We've been snobs, among other sins.  
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-12/snob.mp3" length="29000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-12/snob.mp3
+    </guid>
+    <itunes:duration>45:25</itunes:duration>
+    <itunes:summary>
+        We've been snobs, among other sins.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        Buddhism,meditation,shambhala community
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
+
+<!-- Individual episode content -->
+<item>
+    <title>Suffering.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-13/suffering.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sun, 4 Nov 2018 03:30:00 PST</pubDate>
+    <description>
+        Removing the splinter of I in suffering.  
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-13/suffering.mp3" length="17000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-13/suffering.mp3
+    </guid>
+    <itunes:duration>25:00</itunes:duration>
+    <itunes:summary>
+        Removing the splinter of I in suffering.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        Buddhism,meditation,suffering,christianity
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
+
+<!-- Individual episode content -->
+<item>
+    <title>Appropriating Chogyam Trungpa.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-14/appropriating-vctr.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sat, 10 Nov 2018 05:30:00 PST</pubDate>
+    <description>
+        Who owns, interprets, and shares the teachings of Chogyam Trungpa?  
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-14/appropriating-vctr.mp3" length="26000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-14/appropriating-vctr.mp3
+    </guid>
+    <itunes:duration>36:22</itunes:duration>
+    <itunes:summary>
+        Who owns, interprets, and shares the teachings of Chogyam Trungpa?
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        Buddhism,meditation,chogyam trungpa,shambhala community,sakyong mipham
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
+<!-- Individual episode content -->
+<item>
+    <title>Lama Rod Owens on Shambhala Sexual Misconduct.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-15/lama-owens.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sat, 22 Dec 2018 05:30:00 PST</pubDate>
+    <description>
+        Comments on talk given by Lama Rod Owens in the London Shambhala Center.  
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-15/lama-owens.mp3" length="20000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-15/lama-owens.mp3
+    </guid>
+    <itunes:duration>38:00</itunes:duration>
+    <itunes:summary>
+        Comments on talk given by Lama Rod Owens in the London Shambhala Center.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        Buddhism,meditation,shambhala sexual abuse,lama rod owens,sakyong mipham,shambhala
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
+<!-- Individual episode content -->
+<item>
+    <title>Why did Sam Harris choose to Smack Talk and misrepresent Chogyam Trungpa?</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-16/sam-harris-smacks-vctr.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sat, 05 Jan 2019 06:30:00 PST</pubDate>
+    <description>
+        Why did Sam Harris choose to Smack Talk and misrepresent Chogyam Trungpa?  
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-16/sam-harris-smacks-vctr.mp3" length="19000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-16/sam-harris-smacks-vctr.mp3
+    </guid>
+    <itunes:duration>26:00</itunes:duration>
+    <itunes:summary>
+        Why did Sam Harris choose to Smack Talk and misrepresent Chogyam Trungpa?
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        chogyam trungpa,Buddhism,meditation,sam harris
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
+
+<!-- Individual episode content -->
+<item>
+    <title>Why did Sam Harris trash talk Chogyam Trungpa? - Part 2</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-16/sam-harris-smacks-vctr.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sat, 02 Feb 2019 06:30:00 PST</pubDate>
+    <description>
+        Why did Sam Harris select to trash talk and misrepresent Chogyam Trungpa, especially given that Sam Harris is so sensitive to being misrepresented?   
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Spirituality" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-17/sh-vctr-part2.mp3" length="20000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-17/sh-vctr-part2.mp3
+    </guid>
+    <itunes:duration>27:00</itunes:duration>
+    <itunes:summary>
+        Why did Sam Harris select to trash talk and misrepresent Chogyam Trungpa, especially given that Sam Harris is so sensitive to being misrepresented? 
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        chogyam trungpa,Buddhism,meditation,sam harris
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
+
+<!-- Individual episode content -->
+<item>
+    <title>My mother, Bodhisattva Mahasattva Lola Guadalupana.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-18/lola.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Tues, 27 May 2019 05:30:00 PST</pubDate>
+    <description>
+        What does a Mexican mother, a follower of La Virgen de Guadalupe, have to do with the highest teachings of Chogyman Trungpa?    
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Spirituality" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-18/lola.mp3" length="17000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-18/lola.mp3
+    </guid>
+    <itunes:duration>23:16</itunes:duration>
+    <itunes:summary>
+        What does a Mexican mother, a follower of La Virgen de Guadalupe, have to do with the highest teachings of Chogyman Trungpa?
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        chogyam trungpa,Buddhism,meditation,virgen de guadalupe,sagrado corazon,sacred heart of jesus,faith,devotion
     </itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
 
