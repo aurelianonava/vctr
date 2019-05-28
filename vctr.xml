@@ -710,6 +710,10 @@
     <itunes:category text="Religion &amp; Spirituality">
     <itunes:category text="Other" />
     </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Spirituality" />
+    </itunes:category>
     
     <enclosure url="https://aurelianonava.github.io/vctr/episode-17/sh-vctr-part2.mp3" length="20000000" type="audio/mpeg"/>
     
@@ -724,6 +728,56 @@
     
     <itunes:keywords>
         chogyam trungpa,Buddhism,meditation,sam harris
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
+
+<!-- Individual episode content -->
+<item>
+    <title>My mother, Bodhisattva Mahasattva Lola Guadalupana.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-18/lola.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Tues, 27 May 2019 05:30:00 PST</pubDate>
+    <description>
+        What does a Mexican mother, a follower of La Virgen de Guadalupe, have to do with the highest teachings of Chogyman Trungpa?    
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Spirituality" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-18/lola.mp3" length="17000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-18/lola.mp3
+    </guid>
+    <itunes:duration>23:16</itunes:duration>
+    <itunes:summary>
+        What does a Mexican mother, a follower of La Virgen de Guadalupe, have to do with the highest teachings of Chogyman Trungpa?
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        chogyam trungpa,Buddhism,meditation,virgen de guadalupe,sagrado corazon,sacred heart of jesus,faith,devotion
     </itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
 
