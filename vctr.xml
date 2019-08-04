@@ -783,6 +783,56 @@
 
 </item>
 
+
+<!-- Individual episode content -->
+<item>
+    <title>POC - People of Color Buddist Meditation Groups.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-19/poc-tea-in-cup.mp4
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sun, 4 Aug 2019 05:30:00 PST</pubDate>
+    <description>
+        POC Buddhist groups are increasingly common at present in Buddhist sanghas yet it took decades for them to be perceived as legitimate programs addressing core Buddhist view and practice. Aureliano Nava and Chris Jamison discuss the present state of POC Buddhist groups from their own personal perspective.    
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Spirituality" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-19/poc-tea-in-cup.mp4" length="2100000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-19/poc-tea-in-cup.mp4
+    </guid>
+    <itunes:duration>21:30</itunes:duration>
+    <itunes:summary>
+        POC Buddhist groups are increasingly common at present in Buddhist sanghas yet it took decades for them to be perceived as legitimate programs addressing core Buddhist view and practice. Aureliano Nava and Chris Jamison discuss the present state of POC Buddhist groups from their own personal perspective.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        Buddhism,meditation,POC,people of color meditation,identity
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
     
     </channel>
 </rss>
