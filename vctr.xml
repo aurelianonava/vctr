@@ -833,6 +833,60 @@
 
 </item>
 
+
+
+<!-- Individual episode content -->
+<item>
+    <title>A talk with my friend, Chip Willams.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-20/chip-1228-2019.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sun, 29 Dec 2019 10:00:00 PST</pubDate>
+    <description>
+        After all the years ending up in the same place. A conversation on friends and time, meditation, Basic Goodness, mantra, and the human path of awakening.    
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Spirituality" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-20/chip.mp3" length="18000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-20/chip-1228-2019.mp3
+    </guid>
+    <itunes:duration>21:30</itunes:duration>
+    <itunes:summary>
+        After all the years ending up in the same place. A conversation on friends and time, meditation, Basic Goodness, mantra, and the human path of awakening. 
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        buddhism,meditation,basic goodness, mantra, chogyam trungpa, shambhala, advaita vedanta, self-inquiry.
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
+
+
+
     
     </channel>
 </rss>
